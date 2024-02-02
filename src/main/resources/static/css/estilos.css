@@ -1,5 +1,5 @@
 
-#tituloprincipal{
+/*#tituloprincipal{
     color:darkviolet;
     font-family: sans-serif;
 }
@@ -17,6 +17,46 @@
 p{
     background-color: blue
         
-}
+}*/
    
+/*a:link{ esta funcion sirve para cambiar el color del link hacia las paginas externas 
+    color:chocolate;
+}   
 
+a:visited{Esta funcion sirve para cambiar es color al link despues de ser visitado 
+    color:darkgreen;
+    
+}
+
+a:hover{esta funcion sirve para cuando el usuario pasa por encima del link, el link se vuelve interactivo y cambia de color 
+    background-color: black;
+    color: white;
+    border-radius: 25px;  esta función sirve para redondear, ya sean botones o links    
+}
+
+
+a:active{esta funcion sirve para cuando el usuario mantiene precionado el link y se realizan los cambios especificados dentro de esta accion
+    background-color:red;
+    color:black;
+}
+
+
+
+p:nth-child(even){Esta función sirve para agregarle color a los parrafos,Divs, parrafos etc... especificamente ya sea poniendoles 1 o 2
+    background-color: red;
+}
+
+p:nth-child(odd){
+    background-color: greenyellow;
+}*/
+
+.contenedor{
+    top: 12%;  
+    left: 0;
+    height: 78%;
+    background-color: bisque;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+}
